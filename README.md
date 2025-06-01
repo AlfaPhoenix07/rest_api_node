@@ -7,5 +7,5 @@
 
  --PERN Stack (explicación)
 
- --Primeros pasos (Configuraciones/archivos iniciales y preparar el entorno)
+ --Primeros pasos (Configuraciones/archivos iniciales y preparar el entorno))
  
