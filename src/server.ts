@@ -17,6 +17,7 @@ async function connectDB(){
 }
 connectDB()
 
+
 const server = express()
 
 server.use('/api/products', router)
